@@ -1,0 +1,70 @@
+body{
+    background-size: 1440px,700px;
+    background-color: #00ffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    margin: 0px;
+}
+#pageContainer 
+{
+    width: 1440px;
+    margin: 0px auto 0px auto;
+    background-color: #5d5d5d;
+}
+#pageContainerOne
+{
+    width: 1440px;
+    margin: 0px auto 0px auto;
+    background-color: #5d5d5d;
+}
+#pageContainerTwo
+{
+    width: 1440px;
+    margin: 0px auto 0px auto;
+    background-color: #5d5d5d;
+}
+#pageContainerThree
+{
+    width: 1440px;
+    margin: 0px auto 0px auto;
+    background-color: #5d5d5d;
+}
+#pageContainerFour
+{
+    width: 1440px;
+    margin: 0px auto 0px auto;
+    background-color: #5d5d5d;
+}
+#navigation{
+    width: 1440px;
+    background-color: #000000;
+}
+#paintingOne{
+    float: left;
+    width: 600px;
+    height: 600px;
+}
+#paintingTwo{
+    float: left;
+width: 600px;
+height: 600px;
+}
+#paintingThree{
+    float: left;
+    width: 600px;
+    height: 400px;
+}
+#paintingFour{
+    float: left;
+    width: 600px;
+    height: 600px;
+}
+#museum{
+    float: left;
+    width: 900px;
+    height: 600px;
+}
+#home{
+    width: 30px;
+    height: 30px;
+}
